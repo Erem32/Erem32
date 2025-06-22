@@ -7,10 +7,10 @@
 
 ## 🚀 Co robię
 
-- 🔭 Obecnie pracuję nad projektami w **Python**, **FastAPI**, **React**  
+- 🔭 Pracuję nad projektami w **Python**, **FastAPI**, **React**  
 - 🌱 Uczę się zaawansowanych wzorców w **JavaScript**, **TypeScript** i **Tailwind CSS**  
 - 💬 Chętnie pomogę w kwestiach frontendowych (HTML, CSS) i backendowych (REST, API)  
-- ⚡ Prywatnie eksperymentuję z Dockerem i chmurą (AWS / GCP)
+- ⚡ Eksperymentuję z Dockerem i usługami chmurowymi (AWS / GCP)
 
 ---
 
@@ -28,11 +28,10 @@
 
 ## 📂 Najważniejsze projekty
 
-| Repozytorium     | Opis                           | Link                                      |
-|---------------: |:------------------------------|:------------------------------------------|
-| **Backend API** | REST API w Python + FastAPI   | [github.com/Erem32/backend-api](https://github.com/Erem32/backend-api) |
-| **Panel Admin** | Dashboard w React + Tailwind  | [github.com/Erem32/admin-dashboard](https://github.com/Erem32/admin-dashboard) |
-| **Portfolio**   | Strona osobista (HTML/CSS/JS) | [github.com/Erem32/portfolio](https://github.com/Erem32/portfolio)     |
+| Repozytorium      | Opis                                             | Link                                                                                  |
+|------------------:|:-------------------------------------------------|:--------------------------------------------------------------------------------------|
+| **Bingo App**     | Aplikacja Bingo (React frontend, FastAPI backend) | [github.com/Erem32/ProjektZespolowy](https://github.com/Erem32/ProjektZespolowy)       |
+| **Chat Service**  | Serwis chatowy z WebSocketami (FastAPI, Python)   | [github.com/Erem32/ChatService](https://github.com/Erem32/ChatService)                 |
 
 > ℹ️ Pamiętaj, żeby przypiąć (pin) te repozytoria na swoim profilu.
 
@@ -48,9 +47,7 @@
 
 ## 📫 Kontakt
 
-- 📧 mail: [twoj.email@domena.com](mailto:twoj.email@domena.com)  
-- 💼 LinkedIn: [linkedin.com/in/twoj-linkedin](https://linkedin.com/in/twoj-linkedin)  
-- 🌐 Portfolio: [mateusza.dev](https://mateusza.dev)
+- 📧 mail: [mateusz.majos133@gmail.com](mailto:mateusz.majos133@gmail.com)
 
 ---
 
