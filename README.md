@@ -33,7 +33,7 @@
 | **Bingo App**     | Aplikacja Bingo (React frontend, FastAPI backend) | [github.com/Erem32/ProjektZespolowy](https://github.com/Erem32/ProjektZespolowy)       |
 | **Chat Service**  | Serwis chatowy z WebSocketami (FastAPI, Python)   | [github.com/Erem32/ChatService](https://github.com/Erem32/ChatService)                 |
 
-> ℹ️ Pamiętaj, żeby przypiąć (pin) te repozytoria na swoim profilu.
+
 
 ---
 
