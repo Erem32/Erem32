@@ -28,8 +28,9 @@
 
 ## 📂 Key Projects
 
-| Repository      | Description                                         | Link                                                                                 |
+| Repository       | Description                                         | Link                                                                                 |
 |-----------------:|:----------------------------------------------------|:-------------------------------------------------------------------------------------|
+| **Forkify**      | Recipe search app (JavaScript, MVC, async fetch)    | [Erem32/Forkify](https://github.com/Erem32/Forkify)                                   |
 | **Bingo App**    | Bingo application (React frontend, FastAPI backend) | [Erem32/ProjektZespolowy](https://github.com/Erem32/ProjektZespolowy)                 |
 | **Chat Service** | Chat service with WebSockets (FastAPI, Python)      | [Erem32/ChatService](https://github.com/Erem32/ChatService)                           |
 | **ToDoApp**      | Simple FastAPI CRUD to-do app                       | [Erem32/ToDoApp](https://github.com/Erem32/ToDoApp)                                   |
