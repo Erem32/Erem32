@@ -1,16 +1,16 @@
-# Cześć! 👋 Nazywam się Mateusz Majos
+# Hello! 👋 I'm Mateusz Majos
 
-**Jestem studentem Politechniki Wrocławskiej** (ukończyłem 3. rok)  
-**Mam 22 lata** i pasjonuję się tworzeniem nowoczesnych aplikacji webowych.
+**I am a 3rd-year student at Wrocław University of Science and Technology**  
+**I am 22 years old** and passionate about creating modern web applications.
 
 ---
 
-## 🚀 Co robię
+## 🚀 What I Do
 
-- 🔭 Pracuję nad projektami w **Python**, **FastAPI**, **React**  
-- 🌱 Uczę się zaawansowanych wzorców w **JavaScript**, **TypeScript** i **Tailwind CSS**  
-- 💬 Chętnie pomogę w kwestiach frontendowych (HTML, CSS) i backendowych (REST, API)  
-- ⚡ Eksperymentuję z Dockerem i usługami chmurowymi (AWS / GCP)
+- 🔭 Working on projects in **Python**, **FastAPI**, **React**  
+- 🌱 Learning advanced patterns in **JavaScript**, **TypeScript**, and **Tailwind CSS**  
+- 💬 Happy to help with frontend (HTML, CSS) and backend (REST, API) topics  
+- ⚡ Experimenting with Docker and cloud services (AWS / GCP)
 
 ---
 
@@ -26,18 +26,17 @@
 
 ---
 
-## 📂 Najważniejsze projekty
+## 📂 Key Projects
 
-| Repozytorium      | Opis                                             | Link                                                                                  |
-|------------------:|:-------------------------------------------------|:--------------------------------------------------------------------------------------|
-| **Bingo App**     | Aplikacja Bingo (React frontend, FastAPI backend) | [github.com/Erem32/ProjektZespolowy](https://github.com/Erem32/ProjektZespolowy)       |
-| **Chat Service**  | Serwis chatowy z WebSocketami (FastAPI, Python)   | [github.com/Erem32/ChatService](https://github.com/Erem32/ChatService)                 |
-
-
+| Repository      | Description                                         | Link                                                                                 |
+|-----------------:|:----------------------------------------------------|:-------------------------------------------------------------------------------------|
+| **Bingo App**    | Bingo application (React frontend, FastAPI backend) | [Erem32/ProjektZespolowy](https://github.com/Erem32/ProjektZespolowy)                 |
+| **Chat Service** | Chat service with WebSockets (FastAPI, Python)      | [Erem32/ChatService](https://github.com/Erem32/ChatService)                           |
+| **ToDoApp**      | Simple FastAPI CRUD to-do app                       | [Erem32/ToDoApp](https://github.com/Erem32/ToDoApp)                                   |
 
 ---
 
-## 📈 Statystyki GitHub
+## 📈 GitHub Stats
 
 ![Mateusz’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Erem32&show_icons=true&theme=radical)
 
@@ -45,10 +44,10 @@
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 
-- 📧 mail: [mateusz.majos133@gmail.com](mailto:mateusz.majos133@gmail.com)
+- 📧 Email: [mateusz.majos133@gmail.com](mailto:mateusz.majos133@gmail.com)
 
 ---
 
-> «Żyj kodem, ucz się każdego dnia i dziel się wiedzą!»
+> "Live by code, learn every day, and share your knowledge!"
