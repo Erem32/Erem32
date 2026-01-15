@@ -1,54 +1,56 @@
-# Hello! 👋 I'm Mateusz Majos
+# Mateusz Majos
 
-**I am a 3rd-year student at Wrocław University of Science and Technology**  
-**I am 22 years old** and passionate about creating modern web applications.
-
----
-
-## 🚀 What I Do
-
-- 🔭 Working on projects in **Python**, **FastAPI**, **React**  
-- 🌱 Learning advanced patterns in **JavaScript**, **TypeScript**, and **Tailwind CSS**  
-- 💬 Happy to help with frontend (HTML, CSS) and backend (REST, API) topics  
-- ⚡ Experimenting with Docker and cloud services (AWS / GCP)
+I am a student at **Wrocław University of Science and Technology (PWr)** in Wrocław, Poland, finishing my Bachelor’s degree in Informatics.  
+I focus on building **reliable backend systems** and **full-stack web applications**.
 
 ---
 
-## 🛠️ Tech Stack
+## Profile
 
-![Python](https://img.shields.io/badge/-Python-333?logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?logo=fastapi)  
-![React](https://img.shields.io/badge/-React-333?logo=react)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333?logo=tailwind-css)  
-![HTML5](https://img.shields.io/badge/-HTML5-333?logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-333?logo=css3)
+- Bachelor’s student in Informatics (graduating soon)
+- Interested in **backend engineering**, **distributed systems**, and **scalable APIs**
+- Experience building production-style projects using modern web technologies
+- Comfortable working in Linux-based development environments
 
 ---
 
-## 📂 Key Projects
+## Technical Skills
 
-| Repository       | Description                                         | Link                                                                                 |
-|-----------------:|:----------------------------------------------------|:-------------------------------------------------------------------------------------|
-| **Forkify**      | Recipe search app (JavaScript, MVC, async fetch)    | [Erem32/Forkify](https://github.com/Erem32/Forkify)                                   |
-| **Bingo App**    | Bingo application (React frontend, FastAPI backend) | [Erem32/ProjektZespolowy](https://github.com/Erem32/ProjektZespolowy)                 |
-| **Chat Service** | Chat service with WebSockets (FastAPI, Python)      | [Erem32/ChatService](https://github.com/Erem32/ChatService)                           |
-| **ToDoApp**      | Simple FastAPI CRUD to-do app                       | [Erem32/ToDoApp](https://github.com/Erem32/ToDoApp)                                   |
+**Languages**
+- Python
+- JavaScript / TypeScript
+- SQL
+
+**Backend**
+- FastAPI
+- REST APIs
+- WebSockets
+- Authentication & authorization
+
+**Frontend**
+- React
+- Tailwind CSS
+- HTML / CSS
+
+**Infrastructure & Tools**
+- Git / GitHub
+- Docker (basics)
+- PostgreSQL
+
 
 ---
 
-## 📈 GitHub Stats
+## Selected Projects
 
-![Mateusz’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Erem32&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Erem32&layout=compact&theme=radical)
-
----
-
-## 📫 Contact
-
-- 📧 Email: [mateusz.majos133@gmail.com](mailto:mateusz.majos133@gmail.com)
+| Project | Description | Repository |
+|---|---|---|
+| **Forkify** | Recipe search application using JavaScript (MVC, async data fetching) | https://github.com/Erem32/Forkify |
+| **Bingo App** | Team project: full-stack application with React frontend and FastAPI backend | https://github.com/Erem32/ProjektZespolowy |
+| **Chat Service** | Real-time chat service using WebSockets and FastAPI | https://github.com/Erem32/ChatService |
+| **Crypto Portfolio** | Full-stack crypto portfolio simulator and tracker | https://github.com/Erem32/crypto-portfolio |
 
 ---
 
-> "Live by code, learn every day, and share your knowledge!"
+## Contact
+
+- Email: mateusz.majos133@gmail.com
