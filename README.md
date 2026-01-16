@@ -46,7 +46,7 @@ I focus on building **reliable backend systems** and **full-stack web applicatio
 |---|---|---|
 | **Forkify** | Recipe search application using JavaScript (MVC, async data fetching) | https://github.com/Erem32/Forkify |
 | **Bingo App** | Team project: full-stack application with React frontend and FastAPI backend | https://github.com/Erem32/ProjektZespolowy |
-| **Chat Service** | Real-time chat service using WebSockets and FastAPI | https://github.com/Erem32/ChatService |
+| **Chat Service** | Real-time chat service using WebSockets | https://github.com/Erem32/ChatService |
 | **Crypto Portfolio** | Full-stack crypto portfolio simulator and tracker | https://github.com/Erem32/crypto-portfolio |
 
 ---
